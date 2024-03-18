@@ -5,14 +5,14 @@
 
 – Web : [**https://stacksats.jp**](https://stacksats.jp)
 
-– Nostr : [**yutaro@nostrplebs.com**](https://nostrplebs.com/s/yutaro)
+– Nostr : [**primal.net/yutaro**](https://primal.net/yutaro)
 
-– note : [**https://note.com/yutaro21jp**](https://note.com/yutaro21jp)
+– note : [**note.com/yutaro21jp**](https://note.com/yutaro21jp)
 
-– Twitter : [**https://twitter.com/yutaro21jp**](https://twitter.com/yutaro21jp)
+– X (旧 Twitter) : [**x.com/yutaro21jp**](https://twitter.com/yutaro21jp)
 
 – Email : **yutaro@stacksats.jp**
 
 – Lightning address : **yutaro@walletofsatoshi.com**
 
-– Donation：[**japanese@geyser.fund**](https://geyser.fund/project/japanese)
+– Donation：[**geyser.fund/japanese**](https://geyser.fund/project/japanese)
