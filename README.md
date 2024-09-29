@@ -7,7 +7,7 @@
 
 – Nostr : [**primal.net/yutaro**](https://primal.net/yutaro)
 
-– note : [**note.com/yutaro21jp**](https://note.com/yutaro21jp)
+– Newsletter : [**stacksatsjp.substack.com**](https://stacksatsjp.substack.com)
 
 – X (旧 Twitter) : [**x.com/yutaro21jp**](https://twitter.com/yutaro21jp)
 
